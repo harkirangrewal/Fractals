@@ -1,0 +1,9 @@
+c:\users\harki\documents\visual studio 2015\Projects\Fractals_Sierpinski\Fractals_Sierpinski\bin\Debug\Fractals_Sierpinski.exe.config
+c:\users\harki\documents\visual studio 2015\Projects\Fractals_Sierpinski\Fractals_Sierpinski\bin\Debug\Fractals_Sierpinski.exe
+c:\users\harki\documents\visual studio 2015\Projects\Fractals_Sierpinski\Fractals_Sierpinski\bin\Debug\Fractals_Sierpinski.pdb
+c:\users\harki\documents\visual studio 2015\Projects\Fractals_Sierpinski\Fractals_Sierpinski\obj\Debug\Fractals_Sierpinski.csprojResolveAssemblyReference.cache
+c:\users\harki\documents\visual studio 2015\Projects\Fractals_Sierpinski\Fractals_Sierpinski\obj\Debug\Fractals_Sierpinski.Form1.resources
+c:\users\harki\documents\visual studio 2015\Projects\Fractals_Sierpinski\Fractals_Sierpinski\obj\Debug\Fractals_Sierpinski.Properties.Resources.resources
+c:\users\harki\documents\visual studio 2015\Projects\Fractals_Sierpinski\Fractals_Sierpinski\obj\Debug\Fractals_Sierpinski.csproj.GenerateResource.Cache
+c:\users\harki\documents\visual studio 2015\Projects\Fractals_Sierpinski\Fractals_Sierpinski\obj\Debug\Fractals_Sierpinski.exe
+c:\users\harki\documents\visual studio 2015\Projects\Fractals_Sierpinski\Fractals_Sierpinski\obj\Debug\Fractals_Sierpinski.pdb
